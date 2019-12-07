@@ -7,3 +7,9 @@ h1 {
   font-size: 72px;
   color: #0ccac4;
 }
+
+.bottom{
+  font-size: 32px;
+  color:white;
+  font-family: 'Caveat', cursive;
+}
